@@ -144,4 +144,4 @@ The project uses:
 
 Install the required packages using: pip install -r requirements.txt
 
-Run the simulation using: python rocket_simulation.py
+Run the simulation using: python3 rocket_simulation.py
